@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "2.0.4",
-  "productName": "Helios Launcher",
+  "name": "sowroleplay",
+  "version": "1.0.0",
+  "productName": "Songs of War Roleplay Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) modified by Dr.End",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/DrEnd2007/Songs-of-War-Roleplay",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/DrEnd2007/Songs-of-War-Roleplay/issues"
   },
   "private": true,
   "main": "index.js",
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/DrEnd2007/Songs-of-War-Roleplay.git"
   }
 }
